@@ -1,14 +1,8 @@
-# flutter_flashcards_portrait_language
-
-A simple Flash cards app with localization
+# Flashcard-Portrait-Language
 
 ## Preview
 
-[Preview a Webapp demo](https://flutter-flashcards-portrait-language.codemagic.app/) 
-
-or Scan This Qr code to go to the website 
-
-![frame](https://user-images.githubusercontent.com/18642838/185813809-8a088dff-d93b-4556-ad3e-b01fde7292f2.png)
+[Preview a Webapp demo](https://flashcards-portrait-language.codemagic.app/) 
 
 
 [Download the release APK to try out on your android phone](https://install.appcenter.ms/users/momenamiin/apps/flash-cards-app-language/distribution_groups/public) 
