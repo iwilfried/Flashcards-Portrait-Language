@@ -2,7 +2,7 @@
 
 ## Preview
 
-[Preview a Webapp demo](https://flashcards-portrait-language.codemagic.app/) 
+[Preview a Webapp demo](https://flutter-flashcards-portrait-language.codemagic.app/#/) 
 
 
 [Download the release APK to try out on your android phone](https://install.appcenter.ms/users/momenamiin/apps/flash-cards-app-language/distribution_groups/public) 
